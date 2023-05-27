@@ -1,7 +1,6 @@
 # tkmp
 
-A new Flutter project.
-
+MY BIO APP
 ## Getting Started
 
 This project is a starting point for a Flutter application.
